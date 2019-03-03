@@ -1,0 +1,26 @@
+.project-container{
+    display:inline-block;
+    width: 300px;
+    margin:10px;
+}
+
+.project-image{
+    width:200px;
+    heigh:120px;
+}
+
+.social-profile-container{
+    display:inline;
+    margin:5px;
+}
+
+.social-profile-image{
+    height:40px;
+    width:40px
+}
+
+.social-profiles-wrapper{
+    width:fit-content;
+    margin:auto;
+    text-align:center;
+}
